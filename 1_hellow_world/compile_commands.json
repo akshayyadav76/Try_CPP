@@ -1,5 +1,0 @@
-[{
-  "file": "D:\\programming\\C++_Projects\\1_hellow_world\\CPP_test\\main.cpp",
-  "directory": "D:\\programming\\C++_Projects\\1_hellow_world\\CPP_test",
-  "command": "clang  -c D:\\programming\\C++_Projects\\1_hellow_world\\CPP_test\\main.cpp -o D:\\programming\\C++_Projects\\1_hellow_world\\CPP_test\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
- }]

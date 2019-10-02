@@ -2,7 +2,15 @@
 <Session Name="D:\programming\C++_Projects\1_hellow_world\CPP_project.workspace">
   <int Value="0" Name="m_selectedTab"/>
   <wxString Value="D:\programming\C++_Projects\1_hellow_world\CPP_project.workspace" Name="m_workspaceName"/>
-  <TabInfoArray Name="TabInfoArray"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\1_hellow_world\CPP_test\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
   </SerializedObject>
