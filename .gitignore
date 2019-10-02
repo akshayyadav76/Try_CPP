@@ -1,0 +1,7 @@
+*.d
+*.exe
+*.o
+*.txt
+*.mk
+*.json
+Makefile
