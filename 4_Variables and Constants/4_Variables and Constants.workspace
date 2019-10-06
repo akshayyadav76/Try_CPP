@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="4_Variables and Constants" Database="" Version="10.0.0">
+  <Project Name="1_InitializingVariables" Path="1_InitializingVariables/1_InitializingVariables.project" Active="No"/>
+  <Project Name="2_PrimitiveTypes" Path="2_PrimitiveTypes/2_PrimitiveTypes.project" Active="No"/>
+  <Project Name="3_SizeOfOperater" Path="3_SizeOfOperater/3_SizeOfOperater.project" Active="No"/>
+  <Project Name="4_Contants" Path="4_Contants/4_Contants.project" Active="No"/>
+  <Project Name="5_challenge" Path="5_challenge/5_challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_InitializingVariables" ConfigName="Debug"/>
+      <Project Name="2_PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="3_SizeOfOperater" ConfigName="Debug"/>
+      <Project Name="4_Contants" ConfigName="Debug"/>
+      <Project Name="5_challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_InitializingVariables" ConfigName="Release"/>
+      <Project Name="2_PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="3_SizeOfOperater" ConfigName="Release"/>
+      <Project Name="4_Contants" ConfigName="Release"/>
+      <Project Name="5_challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
