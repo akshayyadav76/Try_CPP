@@ -2,19 +2,37 @@
 <CodeLite_Workspace Name="workspace4" Database="" Version="10.0.0">
   <Project Name="project_1" Path="project_1/project_1.project" Active="No"/>
   <Project Name="project_2" Path="project_2/project_2.project" Active="No"/>
-  <Project Name="first_program" Path="first_program/first_program.project" Active="Yes"/>
+  <Project Name="first_program" Path="first_program/first_program.project" Active="No"/>
+  <Project Name="compiler_error" Path="compiler_error/compiler_error.project" Active="No"/>
+  <Project Name="compiler_warnings" Path="compiler_warnings/compiler_warnings.project" Active="No"/>
+  <Project Name="Linker_errors" Path="Linker_errors/Linker_errors.project" Active="No"/>
+  <Project Name="Runtime_errors" Path="Runtime_errors/Runtime_errors.project" Active="No"/>
+  <Project Name="Logical_erros" Path="Logical_erros/Logical_erros.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="project_1" ConfigName="Debug"/>
       <Project Name="project_2" ConfigName="Debug"/>
       <Project Name="first_program" ConfigName="Debug"/>
+      <Project Name="compiler_error" ConfigName="Debug"/>
+      <Project Name="compiler_warnings" ConfigName="Debug"/>
+      <Project Name="Linker_errors" ConfigName="Debug"/>
+      <Project Name="Runtime_errors" ConfigName="Debug"/>
+      <Project Name="Logical_erros" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="project_1" ConfigName="Release"/>
       <Project Name="project_2" ConfigName="Release"/>
       <Project Name="first_program" ConfigName="Release"/>
+      <Project Name="compiler_error" ConfigName="Release"/>
+      <Project Name="compiler_warnings" ConfigName="Release"/>
+      <Project Name="Linker_errors" ConfigName="Release"/>
+      <Project Name="Runtime_errors" ConfigName="Release"/>
+      <Project Name="Logical_erros" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
