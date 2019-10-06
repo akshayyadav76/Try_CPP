@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name=" 3_Structure of a C++ Program" Database="" Version="10.0.0">
+  <Project Name="Preprocessers_directives" Path="Preprocessers_directives/Preprocessers_directives.project" Active="No"/>
+  <Project Name="Comments" Path="Comments/Comments.project" Active="No"/>
+  <Project Name="The_Main_function" Path="The_Main_function/The_Main_function.project" Active="No"/>
+  <Project Name="NameSpace" Path="NameSpace/NameSpace.project" Active="No"/>
+  <Project Name="Basic_IO" Path="Basic_IO/Basic_IO.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Preprocessers_directives" ConfigName="Debug"/>
+      <Project Name="Comments" ConfigName="Debug"/>
+      <Project Name="The_Main_function" ConfigName="Debug"/>
+      <Project Name="NameSpace" ConfigName="Debug"/>
+      <Project Name="Basic_IO" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Preprocessers_directives" ConfigName="Release"/>
+      <Project Name="Comments" ConfigName="Release"/>
+      <Project Name="The_Main_function" ConfigName="Release"/>
+      <Project Name="NameSpace" ConfigName="Release"/>
+      <Project Name="Basic_IO" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
