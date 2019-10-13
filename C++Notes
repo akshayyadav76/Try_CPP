@@ -1,0 +1,11 @@
+some important notes about C++
+
+   1. C++ is case Sensitive 
+
+   2. there are 95 reserv keywords in c++
+
+   don't use defined constants in modern c++
+   beacuse preprocesser don't no C++ code it will replace every pi with 3.14159 without 
+   knowing its type 
+
+   3. #define pi 3.14159
