@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="8_Characters_and_Strings" Database="" Version="10.0.0">
+  <Project Name="1_C_Style_String" Path="1_C_Style_String/1_C_Style_String.project" Active="No"/>
+  <Project Name="0_char_function" Path="0_char_function/0_char_function.project" Active="No"/>
+  <Project Name="2_CPP_Strings" Path="2_CPP_Strings/2_CPP_Strings.project" Active="No"/>
+  <Project Name="3_challenge" Path="3_challenge/3_challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_C_Style_String" ConfigName="Debug"/>
+      <Project Name="0_char_function" ConfigName="Debug"/>
+      <Project Name="2_CPP_Strings" ConfigName="Debug"/>
+      <Project Name="3_challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_C_Style_String" ConfigName="Release"/>
+      <Project Name="0_char_function" ConfigName="Release"/>
+      <Project Name="2_CPP_Strings" ConfigName="Release"/>
+      <Project Name="3_challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
