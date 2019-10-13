@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10.0.0">
+  <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="IfStatement" Path="1_IfStatement/IfStatement.project" Active="No"/>
+  <Project Name="IfElseStatement" Path="2_IfElseStatement/IfElseStatement.project" Active="No"/>
+  <Project Name="Grades" Path="3_NestedIFElse/Grades.project" Active="No"/>
+  <Project Name="Shipping" Path="4_Shipping/Shipping.project" Active="No"/>
+  <Project Name="Switch" Path="5_Switch/Switch.project" Active="No"/>
+  <Project Name="ConditionalOperator" Path="6_ConditionalOperator_or_TernaryOperator/ConditionalOperator.project" Active="No"/>
+  <Project Name="RangeBasedForLoop" Path="8_RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
+  <Project Name="7_ForLoop" Path="7_ForLoop/ForLoop.project" Active="No"/>
+  <Project Name="WhileLoop" Path="9_WhileLoop/WhileLoop.project" Active="No"/>
+  <Project Name="DoWhile" Path="10_DoWhile/DoWhile.project" Active="No"/>
+  <Project Name="MultiplcationTable" Path="11_NestedLoops/MultiplcationTable.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_IfStatement" ConfigName="Debug"/>
+      <Project Name="2_IfElseStatement" ConfigName="Debug"/>
+      <Project Name="3_NestedIFElse" ConfigName="Debug"/>
+      <Project Name="4_Shipping" ConfigName="Debug"/>
+      <Project Name="5_Switch" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="6_ConditionalOperator_or_TernaryOperator" ConfigName="Debug"/>
+      <Project Name="7_ForLoop" ConfigName="Debug"/>
+      <Project Name="8_RangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="9_WhileLoop" ConfigName="Debug"/>
+      <Project Name="10_DoWhile" ConfigName="Debug"/>
+      <Project Name="11_NestedLoops" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="1_IfStatement" ConfigName="Debug"/>
+      <Project Name="2_IfElseStatement" ConfigName="Debug"/>
+      <Project Name="3_NestedIFElse" ConfigName="Debug"/>
+      <Project Name="4_Shipping" ConfigName="Debug"/>
+      <Project Name="5_Switch" ConfigName="Debug"/>
+      <Project Name="6_ConditionalOperator_or_TernaryOperator" ConfigName="Debug"/>
+      <Project Name="8_RangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="7_ForLoop" ConfigName="Debug"/>
+      <Project Name="9_WhileLoop" ConfigName="Debug"/>
+      <Project Name="10_DoWhile" ConfigName="Debug"/>
+      <Project Name="11_NestedLoops" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_IfStatement" ConfigName="Release"/>
+      <Project Name="2_IfElseStatement" ConfigName="Release"/>
+      <Project Name="3_NestedIFElse" ConfigName="Release"/>
+      <Project Name="4_Shipping" ConfigName="Release"/>
+      <Project Name="5_Switch" ConfigName="Release"/>
+      <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="6_ConditionalOperator_or_TernaryOperator" ConfigName="Release"/>
+      <Project Name="7_ForLoop" ConfigName="Release"/>
+      <Project Name="8_RangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="9_WhileLoop" ConfigName="Release"/>
+      <Project Name="10_DoWhile" ConfigName="Release"/>
+      <Project Name="11_NestedLoops" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="1_IfStatement" ConfigName="Release"/>
+      <Project Name="2_IfElseStatement" ConfigName="Release"/>
+      <Project Name="3_NestedIFElse" ConfigName="Release"/>
+      <Project Name="4_Shipping" ConfigName="Release"/>
+      <Project Name="5_Switch" ConfigName="Release"/>
+      <Project Name="6_ConditionalOperator_or_TernaryOperator" ConfigName="Release"/>
+      <Project Name="8_RangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="7_ForLoop" ConfigName="Release"/>
+      <Project Name="9_WhileLoop" ConfigName="Release"/>
+      <Project Name="10_DoWhile" ConfigName="Release"/>
+      <Project Name="11_NestedLoops" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
