@@ -1,4 +1,12 @@
 # Try_CPP
+# Why Learn C++?
+<img src="https://github.com/akshayyadav76/Try_CPP/blob/master/images/Why%20Learn%20C%2B%2B.png" width="700" height="350">
+
+# Modern C++ and the C++ Standard
+<img src="https://github.com/akshayyadav76/Try_CPP/blob/master/images/Modern%20C%2B%2B%20and%20the%20C%2B%2B%20Standard.png" width="700" height="350">
+
+# Classical C++ vs Modern C++
+<img src="https://github.com/akshayyadav76/Try_CPP/blob/master/images/Classical%20C%2B%2B%20vs%20Modern%20C%2B%2B.png" width="700" height="350">
 
 ### See the ranking of C++ :heart:
 [Tiobe](https://www.tiobe.com/tiobe-index/)</br>
