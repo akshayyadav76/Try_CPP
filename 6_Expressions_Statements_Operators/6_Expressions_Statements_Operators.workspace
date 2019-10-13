@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="6_Expressions_Statements_Operators" Database="" Version="10.0.0">
+  <Project Name="1_Expressions_Statements" Path="1_Expressions_Statements/1_Expressions_Statements.project" Active="No"/>
+  <Project Name="2_Operators" Path="2_Operators/2_Operators.project" Active="No"/>
+  <Project Name="3_AssignmentOperator" Path="2_1_AssignmentOperator/2_1_AssignmentOperator.project" Active="No"/>
+  <Project Name="4_ArithmeticsOperators" Path="4_ArithmeticsOperators/4_ArithmeticsOperators.project" Active="No"/>
+  <Project Name="5_IncrementDecrementOperators" Path="5_IncrementDecrementOperators/5_IncrementDecrementOperators.project" Active="No"/>
+  <Project Name="6_RelationalOperator" Path="6_RelationalOperator/6_RelationalOperator.project" Active="No"/>
+  <Project Name="7_LogicalOperator" Path="7_LogicalOperator/7_LogicalOperator.project" Active="No"/>
+  <Project Name="8_EqualityOperator" Path="8_EqualityOperator/8_EqualityOperator.project" Active="No"/>
+  <Project Name="9_MixedExpressions_and_Conversions" Path="9_MixedExpressions_and_Conversions/9_MixedExpressions_and_Conversions.project" Active="No"/>
+  <Project Name="10_chellange" Path="10_chellange/10_chellange.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_Expressions_Statements" ConfigName="Debug"/>
+      <Project Name="2_Operators" ConfigName="Debug"/>
+      <Project Name="3_AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="4_ArithmeticsOperators" ConfigName="Debug"/>
+      <Project Name="5_IncrementDecrementOperators" ConfigName="Debug"/>
+      <Project Name="6_RelationalOperator" ConfigName="Debug"/>
+      <Project Name="7_LogicalOperator" ConfigName="Debug"/>
+      <Project Name="8_EqualityOperator" ConfigName="Debug"/>
+      <Project Name="9_MixedExpressions_and_Conversions" ConfigName="Debug"/>
+      <Project Name="10_chellange" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_Expressions_Statements" ConfigName="Release"/>
+      <Project Name="2_Operators" ConfigName="Release"/>
+      <Project Name="3_AssignmentOperator" ConfigName="Release"/>
+      <Project Name="4_ArithmeticsOperators" ConfigName="Release"/>
+      <Project Name="5_IncrementDecrementOperators" ConfigName="Release"/>
+      <Project Name="6_RelationalOperator" ConfigName="Release"/>
+      <Project Name="7_LogicalOperator" ConfigName="Release"/>
+      <Project Name="8_EqualityOperator" ConfigName="Release"/>
+      <Project Name="9_MixedExpressions_and_Conversions" ConfigName="Release"/>
+      <Project Name="10_chellange" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
