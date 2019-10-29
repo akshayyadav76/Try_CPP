@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="9_Function" Database="" Version="10.0.0">
   <Project Name="1_Math_functions" Path="1_Math_functions/1_Math_functions.project" Active="No"/>
-  <Project Name="2_Random_function" Path="2_Random_function/2_Random_function.project" Active="Yes"/>
+  <Project Name="2_Random_function" Path="2_Random_function/2_Random_function.project" Active="No"/>
+  <Project Name="3_FunctionDefinations_and_FunctionPrototypes" Path="3_FunctionDefinations/3_FunctionDefinations.project" Active="No"/>
+  <Project Name="4_deafultArguments" Path="4_deafultArguments/4_deafultArguments.project" Active="No"/>
+  <Project Name="5_functionOverloding" Path="5_functionOverloding/5_functionOverloding.project" Active="No"/>
+  <Project Name="6_arrayAndfunction" Path="6_arrayAndfunction/6_arrayAndfunction.project" Active="Yes"/>
+  <Project Name="7_scope_example" Path="scope_example/scope_example.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="1_Math_functions" ConfigName="Debug"/>
       <Project Name="2_Random_function" ConfigName="Debug"/>
+      <Project Name="3_FunctionDefinations_and_FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="4_deafultArguments" ConfigName="Debug"/>
+      <Project Name="5_functionOverloding" ConfigName="Debug"/>
+      <Project Name="6_arrayAndfunction" ConfigName="Debug"/>
+      <Project Name="7_scope_example" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="1_Math_functions" ConfigName="Release"/>
       <Project Name="2_Random_function" ConfigName="Release"/>
+      <Project Name="3_FunctionDefinations_and_FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="4_deafultArguments" ConfigName="Release"/>
+      <Project Name="5_functionOverloding" ConfigName="Release"/>
+      <Project Name="6_arrayAndfunction" ConfigName="Release"/>
+      <Project Name="7_scope_example" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
