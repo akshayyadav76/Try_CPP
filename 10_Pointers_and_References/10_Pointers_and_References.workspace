@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="10_Pointers_and_References" Database="" Version="10.0.0">
+  <Project Name="1_Pointers_and_Dereference" Path="1_pointers/1_pointers.project" Active="No"/>
+  <Project Name="2_dynamic_memory" Path="2_dynamic_memory/2_dynamic_memory.project" Active="No"/>
+  <Project Name="3_Arrays_and_Ponters" Path="3_Arrays_and_Ponters/3_Arrays_and_Ponters.project" Active="No"/>
+  <Project Name="4_Pointer_Arithmetics" Path="4_Pointer_Arithmetics/4_Pointer_Arithmetics.project" Active="No"/>
+  <Project Name="5_passingPointerTo_Functions_1" Path="5_passingPointerTo_Functions_1/5_passingPointerTo_Functions_1.project" Active="No"/>
+  <Project Name="6_passingPointerTo_Function_2" Path="6_passingPointerTo_Function_2/6_passingPointerTo_Function_2.project" Active="No"/>
+  <Project Name="7_passingPointerTo_Function_3" Path="7_passingPointerTo_Function_3/7_passingPointerTo_Function_3.project" Active="No"/>
+  <Project Name="8_ReturnPointer_FromFunction" Path="8_ReturnPointer_FromFunction/8_ReturnPointer_FromFunction.project" Active="No"/>
+  <Project Name="0_Note_BeforUsing_Pointer" Path="0_Note_BeforUsing_Pointer/0_Note_BeforUsing_Pointer.project" Active="No"/>
+  <Project Name="9_References" Path="9_References/9_References.project" Active="No"/>
+  <Project Name="10_Debugger" Path="Debugger/Debugger.project" Active="No"/>
+  <Project Name="solve" Path="solve/solve.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_Pointers_and_Dereference" ConfigName="Debug"/>
+      <Project Name="2_dynamic_memory" ConfigName="Debug"/>
+      <Project Name="3_Arrays_and_Ponters" ConfigName="Debug"/>
+      <Project Name="4_Pointer_Arithmetics" ConfigName="Debug"/>
+      <Project Name="5_passingPointerTo_Functions_1" ConfigName="Debug"/>
+      <Project Name="6_passingPointerTo_Function_2" ConfigName="Debug"/>
+      <Project Name="7_passingPointerTo_Function_3" ConfigName="Debug"/>
+      <Project Name="8_ReturnPointer_FromFunction" ConfigName="Debug"/>
+      <Project Name="0_Note_BeforUsing_Pointer " ConfigName="Debug"/>
+      <Project Name="0_Note_BeforUsing_Pointer" ConfigName="Debug"/>
+      <Project Name="9_References" ConfigName="Debug"/>
+      <Project Name="10_Debugger" ConfigName="Debug"/>
+      <Project Name="solve" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_Pointers_and_Dereference" ConfigName="Release"/>
+      <Project Name="2_dynamic_memory" ConfigName="Release"/>
+      <Project Name="3_Arrays_and_Ponters" ConfigName="Release"/>
+      <Project Name="4_Pointer_Arithmetics" ConfigName="Release"/>
+      <Project Name="5_passingPointerTo_Functions_1" ConfigName="Release"/>
+      <Project Name="6_passingPointerTo_Function_2" ConfigName="Release"/>
+      <Project Name="7_passingPointerTo_Function_3" ConfigName="Release"/>
+      <Project Name="8_ReturnPointer_FromFunction" ConfigName="Release"/>
+      <Project Name="0_Note_BeforUsing_Pointer " ConfigName="Release"/>
+      <Project Name="0_Note_BeforUsing_Pointer" ConfigName="Release"/>
+      <Project Name="9_References" ConfigName="Release"/>
+      <Project Name="10_Debugger" ConfigName="Release"/>
+      <Project Name="solve" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
