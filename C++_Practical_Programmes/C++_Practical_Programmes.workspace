@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++_Practical_Programmes" Database="" Version="10.0.0">
+  <Project Name="1_Number_Is_Prime_Or_Not" Path="1_Number_Is_Prime_Or_Not/1_Number_Is_Prime_Or_Not.project" Active="No"/>
+  <Project Name="3_Fibonacci_Series" Path="3_Fibonacci_Series/3_Fibonacci_Series.project" Active="No"/>
+  <Project Name="4_Factorial_Series" Path="4_Factorial_Series/4_Factorial_Series.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_Number_Is_Prime_Or_Not" ConfigName="Debug"/>
+      <Project Name="3_Fibonacci_Series" ConfigName="Debug"/>
+      <Project Name="4_Factorial_Series" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_Number_Is_Prime_Or_Not" ConfigName="Release"/>
+      <Project Name="3_Fibonacci_Series" ConfigName="Release"/>
+      <Project Name="4_Factorial_Series" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
