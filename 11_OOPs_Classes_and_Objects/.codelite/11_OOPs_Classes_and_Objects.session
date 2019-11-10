@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\11_OOPs_Classes_and_Objects.workspace">
+  <int Value="10" Name="m_selectedTab"/>
+  <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\11_OOPs_Classes_and_Objects.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\1_Procedural_VS_OOPs\main.cpp" Name="FileName"/>
+      <int Value="88" Name="FirstVisibleLine"/>
+      <int Value="90" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\2_Class_and_Object\main.cpp" Name="FileName"/>
+      <int Value="33" Name="FirstVisibleLine"/>
+      <int Value="35" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\3_AccessingClassMembers\main.cpp" Name="FileName"/>
+      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="56" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\4_AccessModifiers\main.cpp" Name="FileName"/>
+      <int Value="17" Name="FirstVisibleLine"/>
+      <int Value="19" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\5_ImplementingMethods1\main.cpp" Name="FileName"/>
+      <int Value="66" Name="FirstVisibleLine"/>
+      <int Value="68" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\6_ImplementingMethods2\main.cpp" Name="FileName"/>
+      <int Value="8" Name="FirstVisibleLine"/>
+      <int Value="10" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\6_ImplementingMethods2\Account.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\6_ImplementingMethods2\Account.cpp" Name="FileName"/>
+      <int Value="14" Name="FirstVisibleLine"/>
+      <int Value="16" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\7_Constructor_Destructor\main.cpp" Name="FileName"/>
+      <int Value="59" Name="FirstVisibleLine"/>
+      <int Value="61" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\8_DefultConstructor\main.cpp" Name="FileName"/>
+      <int Value="18" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\ConstructorInitializationLists\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="10" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="2" Name="Count"/>
+    <SerializedObject Name="Breakpoint0">
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\2_Class_and_Object\main.cpp" Name="file"/>
+      <int Value="6" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint1">
+      <wxString Value="D:\programming\C++_Projects\11_OOPs_Classes_and_Objects\3_AccessingClassMembers\main.cpp" Name="file"/>
+      <int Value="3" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="11_OOPs_Classes_and_Objects" Database="" Version="10.0.0">
+  <Project Name="1_Procedural_VS_OOPs" Path="1_Procedural_VS_OOPs/1_Procedural_VS_OOPs.project" Active="No"/>
+  <Project Name="2_Class_and_Object" Path="2_Class_and_Object/2_Class_and_Object.project" Active="No"/>
+  <Project Name="3_AccessingClassMembers" Path="3_AccessingClassMembers/3_AccessingClassMembers.project" Active="No"/>
+  <Project Name="4_AccessModifiers" Path="4_AccessModifiers/4_AccessModifiers.project" Active="No"/>
+  <Project Name="5_ImplementingMethods1" Path="5_ImplementingMethods1/5_ImplementingMethods1.project" Active="No"/>
+  <Project Name="6_ImplementingMethods2" Path="6_ImplementingMethods2/6_ImplementingMethods2.project" Active="No"/>
+  <Project Name="7_Constructor_Destructor" Path="7_Constructor_Destructor/7_Constructor_Destructor.project" Active="No"/>
+  <Project Name="8_DefultConstructor" Path="8_DefultConstructor/8_DefultConstructor.project" Active="Yes"/>
+  <Project Name="ConstructorInitializationLists" Path="ConstructorInitializationLists/ConstructorInitializationLists.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_Procedural_VS_OOPs" ConfigName="Debug"/>
+      <Project Name="2_Class_and_Object" ConfigName="Debug"/>
+      <Project Name="3_AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="4_AccessModifiers" ConfigName="Debug"/>
+      <Project Name="5_ImplementingMethods1" ConfigName="Debug"/>
+      <Project Name="6_ImplementingMethods2" ConfigName="Debug"/>
+      <Project Name="7_Constructor_Destructor" ConfigName="Debug"/>
+      <Project Name="8_DefultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitializationLists" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_Procedural_VS_OOPs" ConfigName="Release"/>
+      <Project Name="2_Class_and_Object" ConfigName="Release"/>
+      <Project Name="3_AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="4_AccessModifiers" ConfigName="Release"/>
+      <Project Name="5_ImplementingMethods1" ConfigName="Release"/>
+      <Project Name="6_ImplementingMethods2" ConfigName="Release"/>
+      <Project Name="7_Constructor_Destructor" ConfigName="Release"/>
+      <Project Name="8_DefultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitializationLists" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
