@@ -1,6 +1,14 @@
 some important notes about C++
 
-   1. C++ is case Sensitive 
+   1. Key Points of C++
+      *Case-Sensitive
+      *statically typed
+      *Compiled
+      *General-Purpose
+      *Free-form Programming language
+      *Support Procedural Programming
+      *Object-Oriented Programming
+      *Generic Programming 
 
    2. there are 95 reserv keywords in c++
 
@@ -9,3 +17,5 @@ some important notes about C++
    knowing its type 
 
    3. #define pi 3.14159
+   
+   
