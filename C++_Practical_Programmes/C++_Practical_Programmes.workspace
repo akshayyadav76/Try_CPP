@@ -2,19 +2,40 @@
 <CodeLite_Workspace Name="C++_Practical_Programmes" Database="" Version="10.0.0">
   <Project Name="1_Number_Is_Prime_Or_Not" Path="1_Number_Is_Prime_Or_Not/1_Number_Is_Prime_Or_Not.project" Active="No"/>
   <Project Name="3_Fibonacci_Series" Path="3_Fibonacci_Series/3_Fibonacci_Series.project" Active="No"/>
-  <Project Name="4_Factorial_Series" Path="4_Factorial_Series/4_Factorial_Series.project" Active="Yes"/>
+  <Project Name="4_Factorial_Series" Path="4_Factorial_Series/4_Factorial_Series.project" Active="No"/>
+  <Project Name="5_Area_of_Rectangle" Path="5_Area_of_Rectangle/5_Area_of_Rectangle.project" Active="No"/>
+  <Project Name="6_VolumeOfBox_UsingConstructorAndDestructor" Path="6_VolumeOfBox_UsingConstructorAndDestructor/6_VolumeOfBox_UsingConstructorAndDestructor.project" Active="No"/>
+  <Project Name="7_Function_Overload" Path="7_Function_Overload/7_Function_Overload.project" Active="No"/>
+  <Project Name="8_Operator_Overload" Path="8_Operator_Overload/8_Operator_Overload.project" Active="No"/>
+  <Project Name="9_FriendFunction" Path="9_FriendFunction/9_FriendFunction.project" Active="No"/>
+  <Project Name="10_StudentResultUsing_Inheritance" Path="10_StudentResultUsing_Inheritance/10_StudentResultUsing_Inheritance.project" Active="No"/>
+  <Project Name="11_FileHandling" Path="11_FileHandling/11_FileHandling.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="1_Number_Is_Prime_Or_Not" ConfigName="Debug"/>
       <Project Name="3_Fibonacci_Series" ConfigName="Debug"/>
       <Project Name="4_Factorial_Series" ConfigName="Debug"/>
+      <Project Name="5_Area_of_Rectangle" ConfigName="Debug"/>
+      <Project Name="6_VolumeOfBox_UsingConstructorAndDestructor" ConfigName="Debug"/>
+      <Project Name="7_Function_Overload" ConfigName="Debug"/>
+      <Project Name="8_Operator_Overload" ConfigName="Debug"/>
+      <Project Name="9_FriendFunction" ConfigName="Debug"/>
+      <Project Name="10_StudentResultUsing_Inheritance" ConfigName="Debug"/>
+      <Project Name="11_FileHandling" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="1_Number_Is_Prime_Or_Not" ConfigName="Release"/>
       <Project Name="3_Fibonacci_Series" ConfigName="Release"/>
       <Project Name="4_Factorial_Series" ConfigName="Release"/>
+      <Project Name="5_Area_of_Rectangle" ConfigName="Release"/>
+      <Project Name="6_VolumeOfBox_UsingConstructorAndDestructor" ConfigName="Release"/>
+      <Project Name="7_Function_Overload" ConfigName="Release"/>
+      <Project Name="8_Operator_Overload" ConfigName="Release"/>
+      <Project Name="9_FriendFunction" ConfigName="Release"/>
+      <Project Name="10_StudentResultUsing_Inheritance" ConfigName="Release"/>
+      <Project Name="11_FileHandling" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
